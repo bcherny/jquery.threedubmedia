@@ -1,0 +1,25 @@
+{
+  "name": "@bcherny/jquery.threedubmedia",
+  "version": "1.0.0",
+  "description": "NPM-hosted https://github.com/threedubmedia/jquery.threedubmedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcherny/jquery.threedubmedia.git"
+  },
+  "keywords": [
+    "jquery",
+    "drag",
+    "drop",
+    "wheel"
+  ],
+  "author": "Boris Cherny <boris@performancejs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcherny/jquery.threedubmedia/issues"
+  },
+  "homepage": "https://github.com/bcherny/jquery.threedubmedia#readme"
+}
